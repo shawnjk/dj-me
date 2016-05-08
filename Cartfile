@@ -1,0 +1,4 @@
+github "ReactiveCocoa/ReactiveCocoa"
+github "AFNetworking/AFNetworking" ~> 3.0
+github "hkellaway/Gloss"
+github "rs/SDWebImage"
