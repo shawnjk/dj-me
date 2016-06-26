@@ -23,6 +23,7 @@
 		D9CF98471CB4C6FB009FE2E8 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9CF98451CB4C6FB009FE2E8 /* ReactiveCocoa.framework */; };
 		D9CF98481CB4C6FB009FE2E8 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9CF98461CB4C6FB009FE2E8 /* Result.framework */; };
 		D9CF984B1CB4D953009FE2E8 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9CF984A1CB4D953009FE2E8 /* AFNetworking.framework */; };
+		D9EDC6061D0E4C6E002BF765 /* ShowAllTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9EDC6051D0E4C6E002BF765 /* ShowAllTableViewController.swift */; };
 		D9F593711CC445B80040A31C /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F593701CC445B80040A31C /* Album.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		D9CF98451CB4C6FB009FE2E8 /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = "<group>"; };
 		D9CF98461CB4C6FB009FE2E8 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/iOS/Result.framework; sourceTree = "<group>"; };
 		D9CF984A1CB4D953009FE2E8 /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = Carthage/Build/iOS/AFNetworking.framework; sourceTree = "<group>"; };
+		D9EDC6051D0E4C6E002BF765 /* ShowAllTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowAllTableViewController.swift; sourceTree = "<group>"; };
 		D9F593701CC445B80040A31C /* Album.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -139,6 +141,7 @@
 				D98EA2D31CC477F00061454C /* AlbumCell.swift */,
 				D95FAACD1CDEB123002A0D3B /* Artist.swift */,
 				D95FAACF1CDEB2C6002A0D3B /* Track.swift */,
+				D9EDC6051D0E4C6E002BF765 /* ShowAllTableViewController.swift */,
 			);
 			path = "DJ Me";
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				D9F593711CC445B80040A31C /* Album.swift in Sources */,
 				D98EA2D41CC477F00061454C /* AlbumCell.swift in Sources */,
 				D95FAAD01CDEB2C6002A0D3B /* Track.swift in Sources */,
+				D9EDC6061D0E4C6E002BF765 /* ShowAllTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
